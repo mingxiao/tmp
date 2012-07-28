@@ -1,1 +1,2 @@
 This is file B, modify on master
+rock on
